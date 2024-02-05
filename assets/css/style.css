@@ -533,8 +533,18 @@ main {
   transition: var(--transition-1);
 }
 
-.contact-btn span {
+/* .contact-btn span {
   color: white;
+} */
+
+.change-language {
+  text-transform: uppercase;
+  font-size: var(--fs-3);
+  /* color: var(--orange-yellow-crayola); */
+}
+
+.about-text img {
+  max-height: 40px;
 }
 
 
